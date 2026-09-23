@@ -86,18 +86,21 @@ I focus on developing **practical full-stack applications** with a strong emphas
 
 ---
 
-### 🤖 AI Career Navigator
+### 🔧 Fixly
 
-> **A career-focused web application concept connecting users with relevant career paths, skills and learning resources.**
+> **A full-stack web application built to provide a practical, user-focused solution through a modern frontend, backend API and database architecture.**
 
-**Stack:** `Python` `Django` `React` `SQL`
+**Stack:** `React` `Vite` `Flask` `REST API` `MySQL` `SQL` `JWT`
 
 **What it demonstrates**
-- ⚙️ Django backend development
-- ⚛️ Interactive React frontend
-- 🗄️ Database-driven workflows
-- 🔗 Frontend ↔ Backend integration
-- 🎯 Practical problem-solving through software
+
+- ⚛️ Modern React frontend development
+- ⚙️ Flask backend development
+- 🔗 REST API integration
+- 🗄️ MySQL database management
+- 🔐 JWT-based authentication
+- 🔄 Frontend ↔ Backend communication
+- 💻 Full-stack application architecture
 
 ---
 
