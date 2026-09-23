@@ -140,34 +140,6 @@ Strengthening logical thinking and problem-solving
 </div>
 
 
-```
-<div align="center"># 🎯 Developer Journey
-
-```text
-                     🚀 FULL STACK PYTHON
-                            │
-              ┌─────────────┴─────────────┐
-              │                           │
-         🐍 BACKEND                  🌐 FRONTEND
-              │                           │
-       ┌──────┴──────┐             ┌──────┴──────┐
-       │             │             │             │
-    Django        Flask         HTML/CSS     JavaScript
-       │             │                           │
-       └──────┬──────┘                         React
-              │
-          🔗 REST API
-              │
-          🗄️ SQL / MySQL
-              │
-          💻 FULL STACK
-              │
-              ▼
-       🚀 REAL-WORLD
-        APPLICATIONS
-</div>
-```
----
 
 # 🎯 Developer Journey
 
