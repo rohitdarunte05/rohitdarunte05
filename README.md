@@ -207,17 +207,16 @@ Problem solving & programming fundamentals
 
 📊 GitHub Analytics
 
-Important: Replace YOUR_GITHUB_USERNAME with your actual GitHub username in all URLs below.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rohitdarunte05&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=github_dark&hide_border=true&layout=compact" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitdarunte05&theme=github_dark&hide_border=true&layout=compact" width="40%"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitdarunte05&theme=github-dark&hide_border=true" width="500"/>
 
 </div>
 
@@ -225,7 +224,7 @@ Important: Replace YOUR_GITHUB_USERNAME with your actual GitHub username in all 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitdarunte05&theme=github-dark&hide_border=true&area=true" width="95%"/>
 
 </div>
 
@@ -233,11 +232,11 @@ Important: Replace YOUR_GITHUB_USERNAME with your actual GitHub username in all 
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/rohitdarunte05">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="linkedin.com/in/rohit-darunte-155011372">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
