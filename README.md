@@ -76,7 +76,7 @@ I focus on developing **practical full-stack applications** with a strong emphas
 ### 🔧 Fixly
 
 > **A full-stack web application built to provide a practical, user-focused solution through a modern frontend, backend API and database architecture.**
-
+---
 **Stack:** `React` `Vite` `Flask` `REST API` `MySQL` `SQL` `JWT`
 
 **What it demonstrates**
