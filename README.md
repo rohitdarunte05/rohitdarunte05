@@ -140,7 +140,7 @@ Strengthening logical thinking and problem-solving
 </div>
 
 
-
+```
 <div align="center"># 🎯 Developer Journey
 
 ```text
@@ -167,7 +167,33 @@ Strengthening logical thinking and problem-solving
         APPLICATIONS
 </div>
 ```
+---
 
+# 🎯 Developer Journey
+
+```mermaid
+flowchart TD
+    A["🚀 Full Stack Python Developer"]
+
+    A --> B["🐍 Backend Development"]
+    A --> C["🌐 Frontend Development"]
+
+    B --> B1["Django"]
+    B --> B2["Flask"]
+    B --> B3["REST API"]
+    B --> B4["SQL / MySQL"]
+
+    C --> C1["HTML"]
+    C --> C2["CSS"]
+    C --> C3["JavaScript"]
+    C --> C4["React"]
+
+    B3 --> D["💻 Full Stack Applications"]
+    B4 --> D
+    C4 --> D
+
+    D --> E["🚀 Real-World Projects"]
+```
 
 <div align="center">
 <h2>🌐<strong> Connect With Me</strong></h2>
