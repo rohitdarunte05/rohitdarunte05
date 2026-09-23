@@ -180,9 +180,9 @@ Focus: Web Development Backend SQL Database Management
 
 
 
-
+<center>
 🌐 Connect With Me
-
+</center>
 <div align="center">
 
 <a href="https://github.com/rohitdarunte05">
