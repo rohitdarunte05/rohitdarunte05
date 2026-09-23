@@ -141,8 +141,8 @@ Strengthening logical thinking and problem-solving
 
 ---
 
-# 🎯 Developer Journey
-<div align="center">
+<div align="center"># 🎯 Developer Journey
+
 ```text
                      🚀 FULL STACK PYTHON
                             │
@@ -169,7 +169,6 @@ Strengthening logical thinking and problem-solving
 ```
 </div>
 
-```
 <div align="center">
 <h2>🌐<strong> Connect With Me</strong></h2>
 
