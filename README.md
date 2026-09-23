@@ -178,27 +178,8 @@ Focus: Web Development Backend SQL Database Management
 
 📈 Continuously improve software development skills
 
-📊 GitHub Analytics
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rohitdarunte05&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitdarunte05&theme=github_dark&hide_border=true&layout=compact" width="40%" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitdarunte05&theme=github-dark&hide_border=true" width="500" />
-
-</div>
-
-📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitdarunte05&theme=github-dark&hide_border=true&area=true" width="95%" />
-
-</div>
 
 🌐 Connect With Me
 
@@ -216,12 +197,6 @@ Focus: Web Development Backend SQL Database Management
 
 <br>
 
-<div align="center">
-
-GitHub: https://github.com/rohitdarunte05
-LinkedIn: https://www.linkedin.com/in/rohit-darunte-155011372/
-
-</div>
 
 <div align="center">
 
