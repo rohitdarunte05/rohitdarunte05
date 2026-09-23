@@ -32,7 +32,7 @@ I am a Full Stack Python Developer focused on backend development and building p
 
 🚀 Interested in clean, scalable and maintainable software development
 
-🛠️ Tech Stack
+
 
 # 🛠️ Tech Stack
 
@@ -71,20 +71,7 @@ I am a Full Stack Python Developer focused on backend development and building p
 
 I focus on developing **practical full-stack applications** with a strong emphasis on backend architecture, API integration and database-driven functionality.
 
-### 📊 Data Analytics Platform
 
-> **Turning raw data into meaningful insights through a complete full-stack workflow.**
-
-**Stack:** `React` `Vite` `Flask` `REST API` `MySQL` `SQL`
-
-**What it demonstrates**
-- 🔗 Frontend ↔ Backend API integration
-- ⚙️ Flask-based backend architecture
-- 🗄️ Structured SQL database management
-- 📊 Data processing and visualization
-- 💻 End-to-end full-stack development
-
----
 
 ### 🔧 Fixly
 
