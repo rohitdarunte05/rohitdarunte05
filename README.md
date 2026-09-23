@@ -166,10 +166,10 @@ Strengthening logical thinking and problem-solving
        🚀 REAL-WORLD
         APPLICATIONS
 
-
+```
 </div>
 
-
+```
 <div align="center">
 <h2>🌐<strong> Connect With Me</strong></h2>
 
