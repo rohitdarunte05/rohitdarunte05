@@ -72,11 +72,11 @@ I am a Full Stack Python Developer focused on backend development and building p
 I focus on developing **practical full-stack applications** with a strong emphasis on backend architecture, API integration and database-driven functionality.
 
 
-
+---
 ### 🔧 Fixly
 
 > **A full-stack web application built to provide a practical, user-focused solution through a modern frontend, backend API and database architecture.**
----
+
 **Stack:** `React` `Vite` `Flask` `REST API` `MySQL` `SQL` `JWT`
 
 **What it demonstrates**
