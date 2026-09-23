@@ -2,8 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Rohit%20Darunte&fontSize=58&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Python%20Developer%20%7C%20Backend%20Developer&descAlignY=57&descSize=19"/>
 
-<br>
-
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=760&lines=Full+Stack+Python+Developer;Backend+Developer;Python+%7C+Django+%7C+Flask;REST+API+%7C+SQL;React+%7C+JavaScript+%7C+Web+Development;Building+Practical+Web+Applications" alt="Typing SVG"/>
 </a>
@@ -108,8 +106,7 @@ Git, GitHub, VS Code, Postman
 
 A full-stack web application designed for data management, analysis and visualization.
 
-Tech Stack:
-React Vite Flask REST API MySQL SQL
+Tech Stack: React Vite Flask REST API MySQL SQL
 
 Highlights:
 
@@ -127,8 +124,7 @@ Data analysis and visualization
 
 A web application concept designed to help users explore career paths, skills and learning resources.
 
-Tech Stack:
-Python Django React SQL
+Tech Stack: Python Django React SQL
 
 Highlights:
 
@@ -144,48 +140,25 @@ Practical full-stack architecture
 
 🛒 Price Comparison Website
 
-A Diploma final-year project focused on comparing product prices from different sources to help users make informed purchasing decisions.
+A Diploma final-year project focused on comparing product prices from different sources.
 
-Focus:
-Web Development Backend SQL Database Management
+Focus: Web Development Backend SQL Database Management
 
 🌱 Currently Learning
 
-<div align="center">
+🐍 Advanced Python & Backend Development
 
-Technology
+⚙️ Django Web Application Development
 
-Focus
+🧪 Flask & REST API Development
 
-🐍 Python
+🔗 REST API Design & Integration
 
-Advanced programming & backend development
+🗄️ SQL & Database Optimization
 
-⚙️ Django
+⚛️ React & Full Stack Integration
 
-Web application development
-
-🧪 Flask
-
-REST API development
-
-🔗 REST API
-
-API design & integration
-
-🗄️ SQL
-
-Database design & optimization
-
-⚛️ React
-
-Frontend & full-stack integration
-
-🧠 DSA
-
-Problem solving & programming fundamentals
-
-</div>
+🧠 Data Structures & Algorithms
 
 🎯 Professional Goals
 
@@ -203,20 +176,19 @@ Problem solving & programming fundamentals
 
 💻 Build practical projects based on real-world requirements
 
-📈 Continuously improve software development and engineering skills
+📈 Continuously improve software development skills
 
 📊 GitHub Analytics
 
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rohitdarunte05&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rohitdarunte05&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitdarunte05&theme=github_dark&hide_border=true&layout=compact" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitdarunte05&theme=github_dark&hide_border=true&layout=compact" width="40%" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitdarunte05&theme=github-dark&hide_border=true" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitdarunte05&theme=github-dark&hide_border=true" width="500" />
 
 </div>
 
@@ -224,7 +196,7 @@ Problem solving & programming fundamentals
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitdarunte05&theme=github-dark&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitdarunte05&theme=github-dark&hide_border=true&area=true" width="95%" />
 
 </div>
 
@@ -236,9 +208,18 @@ Problem solving & programming fundamentals
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="linkedin.com/in/rohit-darunte-15501137/" target="_blank">
+<a href="https://www.linkedin.com/in/rohit-darunte-15501137/">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+GitHub: https://github.com/rohitdarunte05
+LinkedIn: https://www.linkedin.com/in/rohit-darunte-15501137/
 
 </div>
 
