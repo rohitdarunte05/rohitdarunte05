@@ -67,117 +67,104 @@ I am a Full Stack Python Developer focused on backend development and building p
 
 </div>
 
-💻 Core Skills
+# 🚀 What I Build
 
-Category
+I focus on developing **practical full-stack applications** with a strong emphasis on backend architecture, API integration and database-driven functionality.
 
-Technologies
+### 📊 Data Analytics Platform
 
-Programming
+> **Turning raw data into meaningful insights through a complete full-stack workflow.**
 
-Python, Core Java
+**Stack:** `React` `Vite` `Flask` `REST API` `MySQL` `SQL`
 
-Backend Development
+**What it demonstrates**
+- 🔗 Frontend ↔ Backend API integration
+- ⚙️ Flask-based backend architecture
+- 🗄️ Structured SQL database management
+- 📊 Data processing and visualization
+- 💻 End-to-end full-stack development
 
-Django, Flask
+---
 
-API Development
+### 🤖 AI Career Navigator
 
-REST API
+> **A career-focused web application concept connecting users with relevant career paths, skills and learning resources.**
 
-Frontend Development
+**Stack:** `Python` `Django` `React` `SQL`
 
-HTML, CSS, JavaScript, React
+**What it demonstrates**
+- ⚙️ Django backend development
+- ⚛️ Interactive React frontend
+- 🗄️ Database-driven workflows
+- 🔗 Frontend ↔ Backend integration
+- 🎯 Practical problem-solving through software
 
-Database
+---
 
-SQL, MySQL
+### 🛒 Price Comparison Platform
 
-Web Development
+> **Diploma final-year project focused on simplifying product comparison through a web-based solution.**
 
-Full Stack Web Development
+**Focus:** `Web Development` `Backend` `SQL` `Database Management`
 
-Tools
+**What it demonstrates**
+- 🌐 Web application development
+- 🗄️ Database management
+- 🔍 Product data handling
+- 💡 Real-world problem solving
 
-Git, GitHub, VS Code, Postman
+---
 
-🚀 Featured Projects
+# 🌱 Currently Growing
 
-📊 Data Analytics Full Stack Application
+<div align="center">
 
-A full-stack web application designed for data management, analysis and visualization.
+**🐍 Python**  
+Deepening backend development & application architecture
 
-Tech Stack: React Vite Flask REST API MySQL SQL
+**⚙️ Django & Flask**  
+Building structured and maintainable web applications
 
-Highlights:
+**🔗 REST APIs**  
+Designing and integrating reliable API-based systems
 
-Full-stack application architecture
+**🗄️ SQL & MySQL**  
+Improving database design and query efficiency
 
-Frontend and backend integration
+**⚛️ React**  
+Building modern and responsive frontend interfaces
 
-REST API communication
+**🧠 DSA**  
+Strengthening logical thinking and problem-solving
 
-Database-driven data management
+</div>
 
-Data analysis and visualization
+---
 
-🤖 AI Career Navigator
+# 🎯 Developer Journey
 
-A web application concept designed to help users explore career paths, skills and learning resources.
-
-Tech Stack: Python Django React SQL
-
-Highlights:
-
-Career-oriented application workflow
-
-Django backend development
-
-React frontend
-
-SQL database integration
-
-Practical full-stack architecture
-
-🛒 Price Comparison Website
-
-A Diploma final-year project focused on comparing product prices from different sources.
-
-Focus: Web Development Backend SQL Database Management
-
-🌱 Currently Learning
-
-🐍 Advanced Python & Backend Development
-
-⚙️ Django Web Application Development
-
-🧪 Flask & REST API Development
-
-🔗 REST API Design & Integration
-
-🗄️ SQL & Database Optimization
-
-⚛️ React & Full Stack Integration
-
-🧠 Data Structures & Algorithms
-
-🎯 Professional Goals
-
-🚀 Build production-ready Python web applications
-
-⚙️ Develop robust applications using Django and Flask
-
-🔗 Design clean and reliable REST APIs
-
-🗄️ Strengthen SQL and database architecture
-
-⚛️ Improve React and full-stack development
-
-🧠 Strengthen DSA and problem-solving skills
-
-💻 Build practical projects based on real-world requirements
-
-📈 Continuously improve software development skills
+```text
+                     🚀 FULL STACK PYTHON
+                            │
+              ┌─────────────┴─────────────┐
+              │                           │
+         🐍 BACKEND                  🌐 FRONTEND
+              │                           │
+       ┌──────┴──────┐             ┌──────┴──────┐
+       │             │             │             │
+    Django        Flask         HTML/CSS     JavaScript
+       │             │                           │
+       └──────┬──────┘                         React
+              │
+          🔗 REST API
+              │
+          🗄️ SQL / MySQL
+              │
+          💻 FULL STACK
+              │
+              ▼
+       🚀 REAL-WORLD
+        APPLICATIONS
 
 
 
