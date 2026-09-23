@@ -236,7 +236,7 @@ Problem solving & programming fundamentals
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="[linkedin.com/in/rohit-darunte-15501137](https://www.linkedin.com/in/rohit-darunte-155011372?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+<a href="linkedin.com/in/rohit-darunte-15501137/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
