@@ -208,7 +208,7 @@ Focus: Web Development Backend SQL Database Management
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/in/rohit-darunte-15501137/">
+<a href="https://www.linkedin.com/in/rohit-darunte-155011372/">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
@@ -219,7 +219,7 @@ Focus: Web Development Backend SQL Database Management
 <div align="center">
 
 GitHub: https://github.com/rohitdarunte05
-LinkedIn: https://www.linkedin.com/in/rohit-darunte-15501137/
+LinkedIn: https://www.linkedin.com/in/rohit-darunte-155011372/
 
 </div>
 
