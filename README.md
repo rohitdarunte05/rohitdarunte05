@@ -166,6 +166,7 @@ Strengthening logical thinking and problem-solving
        🚀 REAL-WORLD
         APPLICATIONS
 
+```
 
 
 <div align="center">
