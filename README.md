@@ -180,10 +180,9 @@ Focus: Web Development Backend SQL Database Management
 
 
 
-<center>
-🌐 Connect With Me
-</center>
 <div align="center">
+<h2>🌐<strong> Connect With Me</strong></h2>
+
 
 <a href="https://github.com/rohitdarunte05">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
